@@ -62,7 +62,7 @@ Automatically act on your data and communicate using third-party services like T
 
 # PROGRAM:
 
-````
+`````
 #define in1 6
 #define in2 7
 #define button 4
@@ -94,7 +94,7 @@ void loop() {
   }
   
 }
-````
+```````
 
 # CIRCUIT DIAGRAM:
 
